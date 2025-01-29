@@ -1,0 +1,5 @@
+D:\facu\C#\CsharpProjects\DotNetDebugging\bin\Release\net8.0\win-x86\publish\DotNetDebugging.exe
+D:\facu\C#\CsharpProjects\DotNetDebugging\bin\Release\net8.0\win-x86\publish\DotNetDebugging.dll
+D:\facu\C#\CsharpProjects\DotNetDebugging\bin\Release\net8.0\win-x86\publish\DotNetDebugging.deps.json
+D:\facu\C#\CsharpProjects\DotNetDebugging\bin\Release\net8.0\win-x86\publish\DotNetDebugging.runtimeconfig.json
+D:\facu\C#\CsharpProjects\DotNetDebugging\bin\Release\net8.0\win-x86\publish\DotNetDebugging.pdb

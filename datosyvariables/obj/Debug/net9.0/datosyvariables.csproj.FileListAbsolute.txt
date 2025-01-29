@@ -1,0 +1,14 @@
+D:\facu\C#\CsharpProjects\datosyvariables\bin\Debug\net9.0\datosyvariables.exe
+D:\facu\C#\CsharpProjects\datosyvariables\bin\Debug\net9.0\datosyvariables.deps.json
+D:\facu\C#\CsharpProjects\datosyvariables\bin\Debug\net9.0\datosyvariables.runtimeconfig.json
+D:\facu\C#\CsharpProjects\datosyvariables\bin\Debug\net9.0\datosyvariables.dll
+D:\facu\C#\CsharpProjects\datosyvariables\bin\Debug\net9.0\datosyvariables.pdb
+D:\facu\C#\CsharpProjects\datosyvariables\obj\Debug\net9.0\datosyvariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\facu\C#\CsharpProjects\datosyvariables\obj\Debug\net9.0\datosyvariables.AssemblyInfoInputs.cache
+D:\facu\C#\CsharpProjects\datosyvariables\obj\Debug\net9.0\datosyvariables.AssemblyInfo.cs
+D:\facu\C#\CsharpProjects\datosyvariables\obj\Debug\net9.0\datosyvariables.csproj.CoreCompileInputs.cache
+D:\facu\C#\CsharpProjects\datosyvariables\obj\Debug\net9.0\datosyvariables.dll
+D:\facu\C#\CsharpProjects\datosyvariables\obj\Debug\net9.0\refint\datosyvariables.dll
+D:\facu\C#\CsharpProjects\datosyvariables\obj\Debug\net9.0\datosyvariables.pdb
+D:\facu\C#\CsharpProjects\datosyvariables\obj\Debug\net9.0\datosyvariables.genruntimeconfig.cache
+D:\facu\C#\CsharpProjects\datosyvariables\obj\Debug\net9.0\ref\datosyvariables.dll
