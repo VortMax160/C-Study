@@ -1,0 +1,34 @@
+﻿@page "/todo"
+@rendermode InteractiveServer
+
+<h3>Tareas Pendientes (@todos.Count(todo => !todo.IsDone))</h3>
+
+<ul>
+    @foreach (var todo in todos)
+    {
+        <li>
+            <input type="checkbox" @bind="todo.IsDone" />
+            <input @bind="todo.Title"/>
+            <button class="btn btn-secondary" @onclick="() => remove(todo)">Eliminar Tarea</button>
+        </li>
+    }
+</ul>
+
+<input @bind = "newTodo"/>
+<button class="btn btn-primary" @onclick = "addTodo">Agregar Tarea</button>
+
+@code {
+    private List<TodoItem> todos = new ();
+    string newTodo = "";
+    void addTodo()
+    {
+        if(!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem {Title = newTodo});
+            newTodo = string.Empty;
+        }
+    }
+    void remove (TodoItem todo){
+        todos.Remove(todo);
+    } 
+}

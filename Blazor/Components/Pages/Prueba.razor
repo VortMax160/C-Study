@@ -1,0 +1,21 @@
+@page "/prueba"
+@rendermode InteractiveServer
+
+
+<input @onchange="InputChanged" />
+<p>@message</p>
+
+
+<input @bind="text" />
+<button class="btn btn-primary" @onclick="() => text = string.Empty">Clear</button>
+<p>@text</p>
+
+@code {
+    string message = "";
+
+    void InputChanged(ChangeEventArgs e)
+    {
+        message = (string)e.Value;
+    }
+    string text = "";
+}

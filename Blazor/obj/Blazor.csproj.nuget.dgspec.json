@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\facu\\C#\\C-Study\\Interfaz de Usuario\\ContosoPizza\\ContosoPizza.csproj": {}
+    "D:\\facu\\C#\\C-Study\\Blazor\\Blazor.csproj": {}
   },
   "projects": {
-    "D:\\facu\\C#\\C-Study\\Interfaz de Usuario\\ContosoPizza\\ContosoPizza.csproj": {
+    "D:\\facu\\C#\\C-Study\\Blazor\\Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\facu\\C#\\C-Study\\Interfaz de Usuario\\ContosoPizza\\ContosoPizza.csproj",
-        "projectName": "ContosoPizza",
-        "projectPath": "D:\\facu\\C#\\C-Study\\Interfaz de Usuario\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "D:\\facu\\C#\\C-Study\\Blazor\\Blazor.csproj",
+        "projectName": "Blazor",
+        "projectPath": "D:\\facu\\C#\\C-Study\\Blazor\\Blazor.csproj",
         "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "D:\\facu\\C#\\C-Study\\Interfaz de Usuario\\ContosoPizza\\obj\\",
+        "outputPath": "D:\\facu\\C#\\C-Study\\Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,22 +49,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.5, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[7.0.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

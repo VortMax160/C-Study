@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t6yQKF8xxOI=",
+  "dgSpecHash": "QNito+JJGc8=",
   "success": true,
-  "projectFilePath": "D:\\facu\\C#\\C-Study\\Interfaz de Usuario\\mslearn-create-razor-pages-aspnet-core\\ContosoPizza\\ContosoPizza.csproj",
+  "projectFilePath": "D:\\facu\\C#\\C-Study\\Interfaz de Usuario\\ContosoPizza\\ContosoPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
